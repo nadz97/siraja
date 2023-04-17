@@ -1,6 +1,6 @@
 # About the project
 
-A wedding planner website is a platform designed to provide information and services to couples who are planning their wedding. The website typically includes information about the wedding planner's services, such as wedding coordination, venue selection, vendor management, and event design
+The admin dashboard for the Prosecutor's Office, is a web-based interface designed to provide an overview of the office's operations and performance metrics. The dashboard is typically used by the senior management team of Kejaksaan to monitor and manage the office's activities, including the progress of cases, staff performance, financial data, and other critical information.
 
 ## Build with :
 
@@ -8,3 +8,4 @@ A wedding planner website is a platform designed to provide information and serv
 - Boostrap
 
 # Screenshots of the project
+![dashboard](./homepage siraja.png)
