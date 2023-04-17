@@ -8,4 +8,4 @@ The admin dashboard for the Prosecutor's Office, is a web-based interface design
 - Boostrap
 
 # Screenshots of the project
-![dashboard](./homepage siraja.png)
+![dashboard](homepage siraja.png)
